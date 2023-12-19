@@ -3,6 +3,7 @@
     let tabs = [
         {name: 'Projects',link: '#projects'},
         // {name: 'About me',link: '#About'},
+        {name: 'Contact me',link: '#contactme'},
     ];
 </script>
 
@@ -19,14 +20,15 @@
           </a>
         {/each}  
     </div>
-    <a 
+    <!-- <a 
       href='#'
       target='_blank'
       class="blueShadow relative overflow-hidden px-5 py-2 group rounded-full bg-white
-    text-slate-950">
-      <div class="absolute top-0 right-full w-full h-full bg-violet-400 opacity-20
+    text-slate-950"> -->
+      <!-- <div class="absolute top-0 right-full w-full h-full bg-violet-400 opacity-20
       group-hover: translate-x-full z-0 duration-200">
       </div>
-      <h4 class="relative z-9"><a target='_blank' href="https:wa.me/60102226151">Get in Touch</h4>
-    </a>
+      <h4 class="relative z-9"><a target='_blank' href="https:wa.me/60102226151">Get in Touch</h4> -->
+        <!-- <h4 class="relative z-9"><a target='_blank' href="contactme">Get in Touch</h4> -->
+    <!-- </a> -->
 </header>
