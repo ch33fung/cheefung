@@ -16,3 +16,48 @@ h3,
 .poppins {
     font-family: 'poppins', sans-serif;
 }
+
+.mb-5 {
+    margin-bottom: 3rem!important;
+}
+
+.col-sm-4 {
+    flex: 33.333333%;
+    max-width: 33.333333%;
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+div {
+    display: block;
+}
+
+/* .img-fluid {
+    max-width: 100%;
+    height: auto;
+} */
+
+#showcase-container img {
+    border-radius: 2px;
+    box-shadow: 0 2px 13px 1px rgba(0,0,0,0.2);
+    border: 10px solid #fff;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    vertical-align: middle;
+  }
