@@ -34,8 +34,8 @@
 
             <div id="showcase-container" class='row'>
                 <div class="col-sm-4 mb-5">
-                    <a href="images/projects/face1.png">
-                        <img src="images/projects/face1.png" class="img-fluid">
+                    <a href="images/projects/face.png">
+                        <img src="images/projects/face.png" class="img-fluid">
                     </a>
                 </div>
                 <div class="col-sm-4 mb-5">
