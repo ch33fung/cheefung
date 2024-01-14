@@ -7,7 +7,7 @@
         <span class="poppins text-violet-400">Developer</span> 
       </h2>
       <p class='text-base sm:text-lg md:text-xl'>
-        My <span class="text-violet-400">favourite tech</span> includes Ruby on rails, HTML, CSS, Javascript (Node.JS
+        My <span class="text-violet-400">techstack</span> includes Ruby on rails, HTML, CSS, Javascript (Node.JS
         or SvelteKit), <br/>Bootstrap, TailwindCSS, Express.JS & PostgreSQL!
       </p>
       <a class="blueShadow mx-auto lg:mr-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins
