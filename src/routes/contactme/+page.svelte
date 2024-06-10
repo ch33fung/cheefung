@@ -9,7 +9,7 @@ flex flex-col gap-4 sm:gap-8 justify-center items-center">
     <p><b class="pr-2">Email:</b><a class="text-violet-400" href="mailto:cfch4ng@gmail.com">cfch4ng@gmail.com</a></p>
     <p><b class="pr-2">Github:</b><a class="text-violet-400" target='_blank' href="https://github.com/ch33fung">ch33fung</a></p>
     <!-- <p><b class="pr-2">LinkedIn:</b><a class="text-violet-400" target='_blank' href="https://linkedin.com/in/ch33fung">ch33fung</a></p> -->
-    <p><b class="pr-2">Whatsapp:</b><a class="text-violet-400" target='_blank' href="https://wa.me/60102226151">601119038959</a></p>
+    <p><b class="pr-2">Whatsapp:</b><a class="text-violet-400" target='_blank' href="https://wa.me/601119038959">601119038959</a></p>
 </div>
 </header>
 
